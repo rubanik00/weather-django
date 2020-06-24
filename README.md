@@ -1,5 +1,5 @@
 
-<h1 align="center">🌦 Mini Weather App made with Python Django</h1>
+<h1 align="center">🌦 Mini Weather App made on Python Django</h1>
 
 <h2>Screen of working program</h2>
 
